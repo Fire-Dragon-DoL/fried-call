@@ -13,5 +13,9 @@ module Fried::Call
         end
       end
     end
+
+    def call
+      raise NotImplementedError, "Call object must implement #call"
+    end
   end
 end
