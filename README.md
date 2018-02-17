@@ -1,4 +1,4 @@
-# Fried::Call
+# Fried::Call [![Build Status][test-badge]][test-link]
 
 Service interface with some utilities.
 
@@ -68,3 +68,6 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/Fire-Dragon-DoL/fried-call.
+
+[test-badge]: https://travis-ci.org/Fire-Dragon-DoL/fried-call.svg?branch=master
+[test-link]: https://travis-ci.org/Fire-Dragon-DoL/fried-call
